@@ -1,0 +1,9 @@
+{
+  "items": [
+    {
+      "type": "mp4",
+      "quality": "720p",
+      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4"
+    }
+  ]
+}

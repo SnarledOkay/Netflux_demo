@@ -1,0 +1,75 @@
+{
+  "items": [
+    {
+      "id": "matrix-1999",
+      "title": "The Matrix",
+      "year": 1999,
+      "isSeries": false,
+      "durationMinutes": 136,
+      "categories": ["action", "sci-fi"],
+      "poster": "https://picsum.photos/seed/matrix1999/400/600",
+      "rating": 8.7,
+      "description": "Một hacker phát hiện thực tại là mô phỏng và tham gia cuộc chiến chống lại máy móc."
+    },
+    {
+      "id": "parasite-2019",
+      "title": "Parasite",
+      "year": 2019,
+      "isSeries": false,
+      "durationMinutes": 132,
+      "categories": ["drama"],
+      "poster": "https://picsum.photos/seed/parasite2019/400/600",
+      "rating": 8.5,
+      "description": "Hai gia đình ở hai tầng lớp xã hội cuốn vào chuỗi sự kiện vượt ngoài kiểm soát."
+    },
+    {
+      "id": "aot-s1",
+      "title": "Attack on Titan (Season 1)",
+      "year": 2013,
+      "isSeries": true,
+      "episodesCount": 3,
+      "categories": ["series", "action", "animation"],
+      "poster": "https://picsum.photos/seed/aotS1/400/600",
+      "rating": 8.8,
+      "description": "Nhân loại chiến đấu chống lại các Titan khổng lồ.",
+      "episodes": [
+        { "episode": 1, "name": "To You, in 2000 Years" },
+        { "episode": 2, "name": "That Day" },
+        { "episode": 3, "name": "A Dim Light Amid Despair" }
+      ]
+    },
+    {
+      "id": "inception-2010",
+      "title": "Inception",
+      "year": 2010,
+      "isSeries": false,
+      "durationMinutes": 148,
+      "categories": ["action", "sci-fi"],
+      "poster": "https://picsum.photos/seed/inception2010/400/600",
+      "rating": 8.8,
+      "description": "Đột nhập giấc mơ để đánh cắp/gieo ý tưởng."
+    },
+    {
+      "id": "spirited-away-2001",
+      "title": "Spirited Away",
+      "year": 2001,
+      "isSeries": false,
+      "durationMinutes": 125,
+      "categories": ["animation", "drama"],
+      "poster": "https://picsum.photos/seed/spiritedaway/400/600",
+      "rating": 8.6,
+      "description": "Cô bé lạc vào thế giới linh hồn và phải tự cứu bố mẹ."
+    },
+    {
+      "id": "avengers-2012",
+      "title": "The Avengers",
+      "year": 2012,
+      "isSeries": false,
+      "durationMinutes": 143,
+      "categories": ["action", "sci-fi"],
+      "poster": "https://picsum.photos/seed/avengers2012/400/600",
+      "rating": 8.0,
+      "description": "Các siêu anh hùng tập hợp để đối đầu mối đe dọa ngoài hành tinh."
+    }
+  ]
+}

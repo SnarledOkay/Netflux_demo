@@ -1,0 +1,10 @@
+{
+  "items": [
+    { "id": "action", "slug": "action", "name": "Hành động", "count": 12 },
+    { "id": "sci-fi", "slug": "sci-fi", "name": "Khoa học viễn tưởng", "count": 6 },
+    { "id": "drama", "slug": "drama", "name": "Tâm lý", "count": 5 },
+    { "id": "animation", "slug": "animation", "name": "Hoạt hình", "count": 4 },
+    { "id": "series", "slug": "series", "name": "Series", "count": 3 },
+    { "id": "comedy", "slug": "comedy", "name": "Hài", "count": 2 }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "episodes": [
+    {
+      "episode": 1,
+      "name": "To You, in 2000 Years",
+      "items": [
+        {
+          "type": "mp4",
+          "quality": "720p",
+          "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4"
+        }
+      ]
+    },
+    {
+      "episode": 2,
+      "name": "That Day",
+      "items": [
+        {
+          "type": "mp4",
+          "quality": "720p",
+          "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/SubaruOutbackOnStreetAndDirt.mp4"
+        }
+      ]
+    },
+    {
+      "episode": 3,
+      "name": "A Dim Light Amid Despair",
+      "items": [
+        {
+          "type": "mp4",
+          "quality": "720p",
+          "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/VolkswagenGTIReview.mp4"
+        }
+      ]
+    }
+  ]
+}
